@@ -1,0 +1,97 @@
+@media (max-width: 1024px) {
+	.nicelist li span.listtext{border-bottom:1px dotted #ddd;}
+	.stats-plain li{width:100%;}
+	#lastvisit ul li a{font-size:11px;margin:5px 0;padding:2px 2px 2px 6px;}
+	#lastvisit ul li a span{display:none;}
+	
+	#panelsub{padding:10px 0;}
+	#pinfoimage img{width:100%;height:auto;}
+	#pinfo .pinfotop{text-align:center;}
+	#pinfo .groupleft{float:none;text-align:left;border-bottom:1px dashed #ccc;width:100%;padding:5px 0; color:#08c; margin-bottom:10px;}
+	#pinfo .groupright{padding-left:0;}
+	
+	#maillist{padding:20px; margin:0; box-shadow:none;}
+	#mailboxhead h1{font-size:20px;padding-top:10px;}
+	#msglist .msgsummary{width:60%;}
+	#msglist .msgsummary span{display:none;}
+	#msglist .msgsummary div{height:20px; overflow:hidden;}
+	#msglist .msgtrash{display:none;}
+	.mailgridlite{width:250px;}
+	.mailgridlite .msgfrom{display:none;}
+	#emaildetail{margin-left:409px;}
+	
+	
+	#emailsubject .emailcontrol .close{margin-right:0px;}
+	#emailtext{padding:20px;}
+	#emailreply{margin:20px;}
+	#emailattachment{margin:20px;padding: 10px0px 0;}
+	
+	
+}
+
+
+@media (max-width: 979px) {
+  	body{padding-top:0;}
+	.lbev-calendar-week li.lbev-day .lbev-day-wrapper .lbev-dayname{font-size:48px;}
+}
+
+@media (max-width: 768px) {
+	body{padding:0;}
+	.navbar-fixed-top {margin-bottom: 0px;}
+	
+	.container-fluid{padding:0;}
+	#container{margin-left:0;width:100%;padding:10px;}
+	#panelright{clear:both;margin:20px 0; border-top:2px solid #eee; padding-top:10px;}
+	.stats-plain{width:100%; margin:0;}
+	.stats-plain li{display:block; float:left; width:auto; margin-right:60px;}
+	.stats-plain li:last-child{margin-right:0;}
+	
+	#lastvisit ul li a{font-size:14px;margin:0;padding:8px 5px 8px 6px;border-bottom:1px dashed #ccc;border-left-width:0;}
+	#lastvisit ul li a span{display:inline-block;}
+	
+	#panelmain{width:100%;}
+	#panelsub{clear:both; margin-left: 0;}
+	#pinfoimage img{width:150px; height:auto;}
+	#pinfo .pinfotop{text-align:left;}
+	#pinfo .groupleft{width: 150px; float:left;  text-align:right; color:#222; border-bottom-width:0;}
+	#pinfo .groupright{padding-left:170px;}
+	
+	#navbar{width:100%;margin:10px;}
+	#navbar .sidebar-nav{float:left;width:20%;}
+	#navbar .sidebar-nav .nav-list{position:absolute;width:150px; z-index:1000; background:#ddd;border-radius: 0 0 8px 8px;-webkit-border-radius: 0 0 8px 8px; display:none;}
+	#navbar .sidebar-nav .nav-list .nav-list{background:#ccc;margin-left:150px;border-radius:8px;-webkit-border-radius:8px;margin-top:-40px;}
+	#navbar .sidebar-nav .nav-list li.nav-header a{padding:10px 5px;}
+	
+	#msglist .msgfrom{width:150px;}
+	#msglist .msgsummary{width:50%;}
+	#msglist .msgmore{width:100px !important;}
+	#maillist{padding:10px; margin:0; box-shadow:none;border-top-width:0;}
+	#mailboxhead h1{font-size:18px;padding-top:10px;}
+	.mailgridlite{width:200px;}
+	.mailgridlite .msgfrom{display:none;}
+	.mailgridlite .msgsummary span{display:none !important;}
+	#emaildetail{;margin-right:0;border-right-width:0;border-top-width:0; position:absolute;right:0;width:580px;}
+	#emailsubject h2{font-size:28px;}
+	#emailsubject{padding:50px 20px;}
+	#emailsubject .emailcontrol .close{margin-right:0px;}
+	#emailtext{padding:20px;}
+	#emailreply{margin:20px;}
+	
+}
+
+
+@media (max-width: 767px) {
+	.input-large, .input-xlarge, .input-xxlarge, input[class*="span"], select[class*="span"], textarea[class*="span"], .uneditable-input {min-height:30px;}
+}
+
+
+@media (max-width: 639px) {
+	.navbar .brand{display:none;}
+	.lbev-calendar-week li.lbev-day .lbev-day-wrapper .lbev-dayname{font-size:24px;}
+}
+
+
+
+
+
+

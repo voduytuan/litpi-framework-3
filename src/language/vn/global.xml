@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+  <lines name="dateFormat" descr=""><![CDATA[d/m/Y]]></lines>
+  <lines name="dateFormatSmarty" descr=""><![CDATA[%H:%M, %d/%m/%Y]]></lines>
+
+    <lines name="redirectClickHere" descr=""><![CDATA[Nhấn vào đây]]></lines>
+    <lines name="redirectDontWantWait" descr=""><![CDATA[Nếu bạn không muốn đợi]]></lines>
+
+</data>

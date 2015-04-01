@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+  <lines name="adminPanel" descr=""><![CDATA[Admin Panel]]></lines>
+	<lines name="dateFormatTime" descr=""><![CDATA[H:i, M d Y]]></lines>
+	<lines name="dateFormatTimeSmarty" descr=""><![CDATA[%H:%M, %d/%m/%Y]]></lines>
+	<lines name="dateFormatSmarty" descr=""><![CDATA[%d/%m/%Y]]></lines>
+
+	<lines name="menudashboard" descr=""><![CDATA[Dashboard]]></lines>
+
+	<lines name="formDeleteLabel" descr=""><![CDATA[Delete]]></lines>
+	<lines name="formEditLabel" descr=""><![CDATA[Edit]]></lines>
+	<lines name="formDetailLabel" descr=""><![CDATA[Detail]]></lines>
+	<lines name="formHaveImageLabel" descr=""><![CDATA[Have Avatar]]></lines>
+	<lines name="formActionEditTooltip" descr=""><![CDATA[Edit this record]]></lines>
+	<lines name="formActionDeleteTooltip" descr=""><![CDATA[Delete this record]]></lines>
+	<lines name="formActionDetailTooltip" descr=""><![CDATA[View Record detail]]></lines>
+	<lines name="formRequiredLabel" descr=""><![CDATA[Required]]></lines>
+	<lines name="formViewAll" descr=""><![CDATA[View All]]></lines>
+	<lines name="formBackLabel" descr=""><![CDATA[&laquo; Go back]]></lines>
+	<lines name="formAddSubmit" descr=""><![CDATA[ ADD ]]></lines>
+	<lines name="formCreateSubmit" descr=""><![CDATA[ CREATE ]]></lines>
+	<lines name="formAddExitSubmit" descr=""><![CDATA[ ADD & GO BACK ]]></lines>
+	<lines name="formSaveSubmit" descr=""><![CDATA[ SAVE ]]></lines>
+	<lines name="formSaveExitSubmit" descr=""><![CDATA[ SAVE & GO BACK]]></lines>
+	<lines name="formUpdateSubmit" descr=""><![CDATA[ UPDATE ]]></lines>
+	<lines name="formUpdateExitSubmit" descr=""><![CDATA[ UPDATE & GO BACK]]></lines>
+	<lines name="formSelectSubmit" descr=""><![CDATA[ Select... ]]></lines>
+	<lines name="formCloseSubmit" descr=""><![CDATA[ CLOSE ]]></lines>
+	<lines name="formChangeOrderSubmit" descr=""><![CDATA[ Change Display Order ]]></lines>
+	<lines name="formGeneralSubmit" descr=""><![CDATA[ SUBMIT ]]></lines>
+	<lines name="formUploadSubmit" descr=""><![CDATA[ Upload Your File ]]></lines>
+
+  <lines name="hi" descr=""><![CDATA[Hi,]]></lines>
+  <lines name="editProfileTooltip" descr=""><![CDATA[Edit Profile]]></lines>
+  <lines name="gotoHomepage" descr=""><![CDATA[Go to Website]]></lines>
+  <lines name="gotoHomepageTooltip" descr=""><![CDATA[Go to main site]]></lines>
+  <lines name="logout" descr=""><![CDATA[Logout]]></lines>
+  <lines name="logoutTooltip" descr=""><![CDATA[Logout]]></lines>
+  <lines name="noItemSelected" descr=""><![CDATA[There is no selected item.]]></lines>
+  <lines name="succDelete" descr=""><![CDATA[Deleted successfully.]]></lines>
+  <lines name="errUpdateDb" descr=""><![CDATA[Error while update database.]]></lines>
+  <lines name="errUploadFile" descr=""><![CDATA[Error while Upload File.]]></lines>
+  <lines name="tableTabLabel" descr=""><![CDATA[List]]></lines>
+  <lines name="filterLabel" descr=""><![CDATA[Search]]></lines>
+  <lines name="filterSubmit" descr=""><![CDATA[Search]]></lines>
+  <lines name="notfound" descr=""><![CDATA[No result found.]]></lines>
+  <lines name="formFormLabel" descr=""><![CDATA[Main information]]></lines>
+  <lines name="formMoreInfoLabel" descr=""><![CDATA[More Information]]></lines>
+  <lines name="formIdLabel" descr=""><![CDATA[ID]]></lines>
+  <lines name="formImageLabel" descr=""><![CDATA[Image]]></lines>
+  <lines name="formOrderLabel" descr=""><![CDATA[Display Order]]></lines>
+  <lines name="formYesLabel" descr=""><![CDATA[YES]]></lines>
+  <lines name="formNoLabel" descr=""><![CDATA[NO]]></lines>
+
+  <lines name="groupnameAdmin" descr=""><![CDATA[Administrator]]></lines>
+  <lines name="groupnameModerator" descr=""><![CDATA[Moderator]]></lines>
+  <lines name="groupnameDeveloper" descr=""><![CDATA[Developer]]></lines>
+  <lines name="groupnameEmployee" descr=""><![CDATA[Employee]]></lines>
+  <lines name="groupnamePartner" descr=""><![CDATA[Partner]]></lines>
+  <lines name="groupnameDepartment" descr=""><![CDATA[Department]]></lines>
+  <lines name="groupnameGroup" descr=""><![CDATA[Group]]></lines>
+  <lines name="groupnameMember" descr=""><![CDATA[Member]]></lines>
+  <lines name="groupnameMemberbanned" descr=""><![CDATA[Banned Member]]></lines>
+  <lines name="groupnameGuest" descr=""><![CDATA[Guest]]></lines>
+
+  <lines name="bulkActionSelectLabel" descr=""><![CDATA[Select an action...]]></lines>
+	<lines name="bulkActionDeletetLabel" descr=""><![CDATA[Delete]]></lines>
+	<lines name="bulkActionSubmit" descr=""><![CDATA[Apply]]></lines>
+	<lines name="bulkActionInvalidWarn" descr=""><![CDATA[You need to select an action to apply]]></lines>
+	<lines name="bulkItemNoSelected" descr=""><![CDATA[No item selected]]></lines>
+	<lines name="bulkItemChangeOrderSubmit" descr=""><![CDATA[Save change]]></lines>
+	<lines name="bulkItemChangeOrderSuccess" descr=""><![CDATA[Display order had been changed]]></lines>
+
+	<lines name="errFormTokenInvalid" descr=""><![CDATA[Error while submit your data. Please try again.]]></lines>
+
+
+  <lines name="jsDelConfirm" descr=""><![CDATA[Are you agree?]]></lines>
+  <lines name="jsAgreeLabel" descr=""><![CDATA[I AGREE]]></lines>
+  <lines name="errPermission" descr=""><![CDATA[Not permission.]]></lines>
+
+
+</data>

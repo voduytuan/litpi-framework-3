@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/http-foundation": "2.*"
+    },
+    "config" : {
+        "vendor-dir" : "Vendor"
+    }
+}

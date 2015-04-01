@@ -1,0 +1,24 @@
+<Files ~ "\.(sphp|php3|php4|php5|phtml|cgi|pl|shtml|dhtml|tpl)$">
+deny from all
+</files>
+
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresDefault A0
+
+
+	<FilesMatch "\.(gif|jpg|jpeg|png)$">
+	ExpiresDefault A604800
+	Header append Cache-Control "public"
+	</FilesMatch>
+
+	<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+	Header set Cache-Control "max-age=604800, public"
+	</FilesMatch>
+
+
+	<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+	ExpiresDefault A604800
+	</FilesMatch>
+
+</IfModule>

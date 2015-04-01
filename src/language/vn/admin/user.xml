@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+		<lines name="head_list" descr=""><![CDATA[User]]></lines>
+		<lines name="title_list" descr=""><![CDATA[User Listing]]></lines>
+		<lines name="pageTitle_list" descr=""><![CDATA[User &raquo; Listing]]></lines>
+
+
+		<lines name="head_add" descr=""><![CDATA[Add New User]]></lines>
+		<lines name="title_add" descr=""><![CDATA[User Information]]></lines>
+		<lines name="pageTitle_add" descr=""><![CDATA[User &raquo; Add]]></lines>
+
+		<lines name="head_edit" descr=""><![CDATA[Update User]]></lines>
+		<lines name="title_edit" descr=""><![CDATA[User Information]]></lines>
+		<lines name="pageTitle_edit" descr=""><![CDATA[User &raquo; Update]]></lines>
+
+		<lines name="labelId" descr=""><![CDATA[ID]]></lines>
+		<lines name="labelEmail" descr=""><![CDATA[Email]]></lines>
+		<lines name="labelScreenname" descr=""><![CDATA[Screenname]]></lines>
+		<lines name="labelFullname" descr=""><![CDATA[Full Name]]></lines>
+		<lines name="labelAvatar" descr=""><![CDATA[Avatar]]></lines>
+		<lines name="labelGroupid" descr=""><![CDATA[Groupid]]></lines>
+		<lines name="labelGroup" descr=""><![CDATA[Group]]></lines>
+		<lines name="labelRegion" descr=""><![CDATA[Region]]></lines>
+		<lines name="labelGender" descr=""><![CDATA[Gender]]></lines>
+		<lines name="labelView" descr=""><![CDATA[View]]></lines>
+		<lines name="labelDatecreated" descr=""><![CDATA[Date Registered]]></lines>
+		<lines name="labelDatelastaction" descr=""><![CDATA[Date Last Action]]></lines>
+		<lines name="labelParentid" descr=""><![CDATA[Parent ID]]></lines>
+
+		<lines name="errEmailInvalid" descr=""><![CDATA[Email is invalid]]></lines>
+		<lines name="errEmailExisted" descr=""><![CDATA[Email is already used]]></lines>
+		<lines name="errPasswordRequired" descr=""><![CDATA[Password is required]]></lines>
+		<lines name="errPasswordRetype" descr=""><![CDATA[Password is not match]]></lines>
+		<lines name="errFullnameRequired" descr=""><![CDATA[Fullname is required]]></lines>
+		<lines name="errGenderInvalid" descr=""><![CDATA[Gender is invalid]]></lines>
+		<lines name="errGroupInvalid" descr=""><![CDATA[Group is invalid]]></lines>
+
+		<lines name="errAdd" descr=""><![CDATA[Error while Add User]]></lines>
+		<lines name="succAdd" descr=""><![CDATA[User had been created.]]></lines>
+		<lines name="errUpdate" descr=""><![CDATA[Error while updating User]]></lines>
+		<lines name="succUpdate" descr=""><![CDATA[User had been updated.]]></lines>
+
+		<lines name="errNotFound" descr=""><![CDATA[User not found.]]></lines>
+		<lines name="errDelete" descr=""><![CDATA[Error while deleting User with id ###id###.]]></lines>
+		<lines name="succDelete" descr=""><![CDATA[User with id ###id### had been deleted.]]></lines>
+
+
+		<lines name="errResetpass" descr=""><![CDATA[Error while reset password.]]></lines>
+		<lines name="errResetpassSendMail" descr=""><![CDATA[Reset password successfully, but can not send email <strong>###email###</strong>.]]></lines>
+		<lines name="succResetpass" descr=""><![CDATA[Reset password successfully. Password is sent to email <strong>###email###</strong>.]]></lines>
+
+
+</data>

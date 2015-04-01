@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<lines name="dateFormatTime" descr=""><![CDATA[H:i, M d Y]]></lines>
+	<lines name="dateFormatTimeSmarty" descr=""><![CDATA[%H:%M, ngày %d/%m/%Y]]></lines>
+	<lines name="dateFormatSmarty" descr=""><![CDATA[%d/%m/%Y]]></lines>
+
+    <lines name="errFormTokenInvalid" descr=""><![CDATA[Error while submit your data. Please try again.]]></lines>
+</data>

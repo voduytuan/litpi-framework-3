@@ -1,0 +1,29 @@
+actor: Tester
+coverage:
+    enabled: true
+    blacklist:
+        include:
+            - tests/*
+            - src/libs/*
+            - src/templates/*
+            - src/Vendor/*
+        exclude:
+            - src/Vendor/Litpi/*
+paths:
+    tests: tests
+    log: tests/_output
+    data: tests/_data
+    helpers: tests/_support
+settings:
+    bootstrap: _bootstrap.php
+    colors: true
+    memory_limit: 2048M
+modules:
+    config:
+        Db:
+            dsn: ''
+            user: ''
+            password: ''
+            dump: tests/_data/dump.sql
+        LitpiHelper:
+            remoteaddr: '127.0.0.1'

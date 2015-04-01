@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<lines name="title" descr=""><![CDATA[Forget Password]]></lines>
+	<lines name="email" descr=""><![CDATA[Email]]></lines>
+	<lines name="resetHelp" descr=""><![CDATA[Retype new password for your account]]></lines>
+	<lines name="password" descr=""><![CDATA[New password]]></lines>
+	<lines name="password2" descr=""><![CDATA[Retype new password]]></lines>
+	<lines name="submitLabel" descr=""><![CDATA[Send me password]]></lines>
+	<lines name="succSubmitEmail" descr=""><![CDATA[An email had been sent to you to show you how to reset password]]></lines>
+	<lines name="errSubmitEmail" descr=""><![CDATA[Error while sending your email. Try again.]]></lines>
+	<lines name="errSpam" descr=""><![CDATA[Spam detected. Please wait 30 mins.]]></lines>
+	<lines name="errInvalidEmail" descr=""><![CDATA[Email invalid.]]></lines>
+	<lines name="errAccountInvalid" descr=""><![CDATA[Your email isn't found.]]></lines>
+	<lines name="errPassNotMatch" descr=""><![CDATA[Password don't match]]></lines>
+	<lines name="errInvalidCode" descr=""><![CDATA[Invalid code. Pleas try again]]></lines>
+	<lines name="errPasswordTooShort" descr=""><![CDATA[Password too short (at least 6 characters).]]></lines>
+	<lines name="errReset" descr=""><![CDATA[Reset password error.]]></lines>
+	<lines name="succReset" descr=""><![CDATA[Change password successfully.]]></lines>
+
+	<lines name="mailSubject" descr=""><![CDATA[Reset Password Information from]]></lines>
+	<lines name="emptyinfo" descr=""><![CDATA[Missing infomation]]></lines>
+
+	<lines name="pageTitle" descr=""><![CDATA[Forget Password]]></lines>
+	<lines name="pageKeyword" descr=""><![CDATA[forgot password]]></lines>
+	<lines name="pageDescription" descr=""><![CDATA[Restore password.]]></lines>
+
+</data>

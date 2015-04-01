@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<lines name="errAccountInvalid" descr=""><![CDATA[Incorrect Email or Password. Try again.]]></lines>
+	<lines name="warnRefer" descr=""><![CDATA[Login before continue...]]></lines>
+
+	<lines name="pageTitle" descr=""><![CDATA[Login]]></lines>
+	<lines name="pageKeyword" descr=""><![CDATA[logged in, login, log in, sign in, sign up, registration, dangnhap, log, dangnhap, Create an account, register]]></lines>
+	<lines name="pageDescription" descr=""><![CDATA[Login to the system. You can log in using your Facebook, Yahoo Mail, gmai. Login to use fully functional website.]]></lines>
+
+</data>
